@@ -1,3 +1,3 @@
 
 def area_rectangle(length, width):
-  return length*width
+  return print("Make")
